@@ -1,7 +1,16 @@
-# MLops_basics_project
-learn MLops with mlflow 
 
 
+
+```
+ML Project Template
+This repository provides a complete machine learning project template with a modular codebase, 
+configuration-driven design, and built-in support for Docker, CI/CD, and web interfaces.
+```
+```text
+📁 Project Structure
+
+ 
+.
 ├── app.py                 # Web or API interface (e.g., FastAPI/Flask)
 ├── main.py                # Entry point for running the ML pipeline
 ├── setup.py               # Packaging and installation
@@ -37,4 +46,4 @@ learn MLops with mlflow
         ├── pipeline/             # ML pipeline orchestration
         ├── utils/                # Utility functions (e.g., common.py)
         └── template.py           # Script to auto-generate project structure
-
+```
