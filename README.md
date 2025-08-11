@@ -47,3 +47,18 @@ configuration-driven design, and built-in support for Docker, CI/CD, and web int
         ├── utils/                # Utility functions (e.g., common.py)
         └── template.py           # Script to auto-generate project structure
 ```
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A[Data Ingestion] --> B[Data Validation];
+    B --> C[Data Transformation];
+    C--> D[Model Trainer];
+
+
+    %% Colors
+    style A fill:#f4a261,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#2a9d8f,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#e9c46a,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#264653,stroke:#333,stroke-width:2px,color:#fff
+```
