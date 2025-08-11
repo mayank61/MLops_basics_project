@@ -47,7 +47,7 @@ configuration-driven design, and built-in support for Docker, CI/CD, and web int
         ├── utils/                # Utility functions (e.g., common.py)
         └── template.py           # Script to auto-generate project structure
 ```
-Here is a simple flow chart:
+## Machine Learning Pipeline
 
 ```mermaid
 graph TD;
