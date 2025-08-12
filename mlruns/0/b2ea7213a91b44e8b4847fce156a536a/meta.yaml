@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/MLops_basics_project/mlruns/0/b2ea7213a91b44e8b4847fce156a536a/artifacts
+end_time: 1755017736237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2ea7213a91b44e8b4847fce156a536a
+run_name: intelligent-swan-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755017706366
+status: 3
+tags: []
+user_id: Mayank
